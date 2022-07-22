@@ -17,4 +17,6 @@ Inicialmente, los procesos de análisis y modelación, que en su conjunto conclu
 
 El objetivo de este proyecto es integrar las diferentes herramientas, de manera que un analista, sin experiencia en la programación, introduzca un archivo de DC y pueda obtener de manera eficaz un análisis estadístico descriptivo basado en las variables disponibles, así como una expresión cartográfica de las tendencias ambientales implícitas en los DC. Esto último, estrictamente relacionado al conocimiento experto del analista expresado a través de la creación de una hipótesis de distribución espacial.
 
+Notas de instalación:
 
+Crear una carpeta llamada "tempFiles" en la misma ruta donde se guarde el código de la aplicaión.
